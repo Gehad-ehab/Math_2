@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mm2"
+    tools:context=".secActivity">
+
+    <TextView
+        android:id="@+id/desc"
+        android:layout_width="220dip"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dip"
+        android:text="Here,You can find Lectures on all math branches......Just choose your grade to Start.."
+        android:textColor="#FA030544"
+        android:textSize="36sp" />
+</RelativeLayout>
